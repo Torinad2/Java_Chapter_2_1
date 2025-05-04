@@ -1,5 +1,5 @@
 # Java_Chapter_2_1
-Starting out with Java. Assignment 1: Name Age and Annual Income. Chapter 2.
+Starting out with Java. Chapter 2. Assignment 1: Name Age and Annual Income. 
 
 Assignment: Name, Age, and Annual Income                                                                                                                                          
 
