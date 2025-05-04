@@ -36,6 +36,9 @@ public class NameAgeAndAnnualIncome
         System.out.println();
         System.out.println("Developed by: Nikita Baiborodov.");
 
+        /* ********************************************
+         * Exit the program                           *
+         **********************************************/
         System.exit(0);
     }
 }
