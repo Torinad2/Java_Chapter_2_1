@@ -1,5 +1,4 @@
-/**
- ***********************************************************************************************
+/***********************************************************************************************
  * Assignment: Name, Age, and Annual Income                                                    *
  *                                                                                             *
  * Write a program that declares the following:                                                *
@@ -18,27 +17,24 @@ public class NameAgeAndAnnualIncome
     public static void main(String[] args)
     {
 
-        /*
-         ***********************************************
+        /* *********************************************
          * Variable Declarations                       *
          ***********************************************/
         String name = "Nikita Baiborodov";
         int age = 43;
         double annualPay = 300_000.0;
 
-        /*
-         ***********************************************
+        /* *********************************************
          * Display user's personal information         *
          ***********************************************/
         System.out.println("My name is " + name + ", my age is " + age + " and");
         System.out.println("I hope to earn $" + annualPay + " per year.");
 
-        /*
-         ***********************************************
+        /* *********************************************
          * Display developer credit                    *
          ***********************************************/
         System.out.println();
-        System.out.println("Developed by Nikita Baiborodov.");
+        System.out.println("Developed by: Nikita Baiborodov.");
 
         System.exit(0);
     }
